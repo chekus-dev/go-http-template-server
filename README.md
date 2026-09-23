@@ -80,6 +80,7 @@ The server will render the `home.html` template located in the `templates` direc
 
 | Method | Endpoint | Description          |
 | ------ | -------- | -------------------- |
+| GET    | `/`      | Redirect to `/home`  |
 | GET    | `/home`  | Render the Home page |
 
 ---
