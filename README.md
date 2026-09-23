@@ -59,7 +59,7 @@ go run .
 You should see:
 
 ```text
-starting the server on port :7000
+starting the server on port :8080
 ```
 
 ---
@@ -69,7 +69,7 @@ starting the server on port :7000
 Open your browser and visit:
 
 ```text
-http://localhost:7000/home
+http://localhost:8080/home
 ```
 
 The server will render the `home.html` template located in the `templates` directory.
